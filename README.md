@@ -1,7 +1,7 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
+Grupo: DIU2_Loading.  Curso: 2021/22 
 Updated: 11/2/2022
 
 Proyecto: 
@@ -15,12 +15,11 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Ana García Muñoz     :octocat:     
+ * :bust_in_silhouette:  Lorena Gómez Gómez     :octocat:
+ * :bust_in_silhouette:  Leticia Quiñones Rodríguez     :octocat:
 
 ----- 
-
-
 
 >>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
@@ -33,25 +32,33 @@ Miembros
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> La página web principal a analizar nos ha sido asignada por subgrupos (hostel Carlota Braun). Las otras Granada Told Town y The Hat Madrid Hotel nos llamaron la atención por cómo se presentaban, su temática similar y las diferencias entre las páginas web
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Los hemos escogido al ser clientes potenciales (16-30 años) que podrían estar interesados en los servicios que ofrece.
+
+![UserPersona1](https://user-images.githubusercontent.com/74658801/159120669-9ec912ff-c0b5-4058-9d00-284d7ff92c20.jpg)
+![UserPersona2](https://user-images.githubusercontent.com/74658801/159120674-31c739a7-1311-4cf0-aeb8-612c8d2eae2a.jpg)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Según la personalidad y forma de ser de cada uno, hemos elegido escenarios que se adaptaban a ellos y que podría ocurrir a cualquier otro cliente com las mismas intenciones o similares
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Valoración final (numérica): 76
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> Hau errores en enlaces de ubicación, el scroll puede optimizarse y faltan botones sociales. Por lo demás, es fácil de usar y llamativa.
 
 
 ## Paso 2. UX Design  
