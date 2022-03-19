@@ -55,7 +55,7 @@ Miembros
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
+>>> - Enlace al documento: https://github.com/phantoone/DIU2.Loading/blob/f429081675d06830fe0dc453e1aad19cceebd128/P1/Usability-review.xlsx (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 76
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 >>> Hau errores en enlaces de ubicación, el scroll puede optimizarse y faltan botones sociales. Por lo demás, es fácil de usar y llamativa.
