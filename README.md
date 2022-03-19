@@ -38,7 +38,7 @@ Miembros
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
->>> Los hemos escogido al ser clientes potenciales (16-30 años) que podrían estar interesados en los servicios que ofrece.
+  Los hemos escogido al ser clientes potenciales (16-30 años) que podrían estar interesados en los servicios que ofrece.
 
 ![UserPersona1](https://user-images.githubusercontent.com/74658801/159120669-9ec912ff-c0b5-4058-9d00-284d7ff92c20.jpg)
 ![UserPersona2](https://user-images.githubusercontent.com/74658801/159120674-31c739a7-1311-4cf0-aeb8-612c8d2eae2a.jpg)
@@ -49,7 +49,7 @@ Miembros
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
->>> Según la personalidad y forma de ser de cada uno, hemos elegido escenarios que se adaptaban a ellos y que podría ocurrir a cualquier otro cliente com las mismas intenciones o similares
+  Según la personalidad y forma de ser de cada uno, elegimos escenarios que se adaptaban a ellos y que podría ocurrir a otro cliente con intenciones similares.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -58,7 +58,7 @@ Miembros
 >>> - Enlace al documento: https://github.com/phantoone/DIU2.Loading/blob/f429081675d06830fe0dc453e1aad19cceebd128/P1/Usability-review.xlsx (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 76
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
->>> Hau errores en enlaces de ubicación, el scroll puede optimizarse y faltan botones sociales. Por lo demás, es fácil de usar y llamativa.
+   Hay errores en enlaces de ubicación, el scroll puede optimizarse y faltan botones sociales. Por lo demás, es fácil de usar y llamativa.
 
 
 ## Paso 2. UX Design  
