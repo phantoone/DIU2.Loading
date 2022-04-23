@@ -4,11 +4,11 @@ Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels)
 Grupo: DIU2_Loading.  Curso: 2021/22 
 Updated: 11/2/2022
 
-Proyecto: 
+Proyecto: Stand-up Comedy
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
 Descripción: 
-
+Hemos decidido añadir una nueva actividad al establecimiento: Un Stand-up Comedy. Todos los martes se abrirá un espacio al público donde invitados especiales o cualquier persona mediante un formulario de inscripción podrá mostrar sus mejores chistes o monólogos y para pasar un buen rato. A diferencia de otros eventos donde la música está de ambiente aquí se pretende que los clientes interactúen con el que esté en el escenario y formen parte de ella mñas activamente
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
@@ -70,11 +70,11 @@ Miembros
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
+  ![image](https://user-images.githubusercontent.com/74658801/164947768-c06d3c9e-9a51-4cfb-8820-ad49ceba76ee.png)
+
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
