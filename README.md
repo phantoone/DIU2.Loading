@@ -180,6 +180,15 @@ A continuación se puede observar la interfaz que hemos diseño y cómo funciona
 
 ![Mockup](P3/P3.gif)
 
+![Mockup](P3/PagPrincipal.png)
+![Mockup](P3/MusicaStandup.png)
+![Mockup](P3/Eventos.png)
+![Mockup](P3/EventosBuscar.png)
+![Mockup](P3/Formulario.png)
+
+
+
+
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
