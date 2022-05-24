@@ -176,7 +176,7 @@ Formulario:
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
-A continuación se puede observar la interfaz que hemos diseño y cómo funciona:
+A continuación se puede observar la interfaz que hemos diseño y cómo funciona: (Se puede descargar el .pie en la carpeta P3 de este github)
 
 ![Mockup](P3/P3.gif)
 
